@@ -1,4 +1,4 @@
-# 📦 Project Name (e.g., Pantry2Plate)
+# 📦 Pantry2Plate
 
 ## 📝 Overview
 Pantry2Plate is a smart meal planner that helps users decide what to cook based on ingredients they already have — saving time, reducing waste, and lowering grocery costs.
